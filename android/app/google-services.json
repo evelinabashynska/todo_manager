@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138782443693",
+    "project_id": "todo-manager-c5560",
+    "storage_bucket": "todo-manager-c5560.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138782443693:android:586dcc1fb6d08278951e24",
+        "android_client_info": {
+          "package_name": "com.example.todo_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLtequ2w-s9a7brUCk2Na4rymy-gqbWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
